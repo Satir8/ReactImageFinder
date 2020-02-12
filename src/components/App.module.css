@@ -1,0 +1,11 @@
+.App {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 16px;
+  padding-bottom: 60px;
+}
+
+.loaderBox {
+  margin: 0 auto;
+  color: #ffc400;
+}
